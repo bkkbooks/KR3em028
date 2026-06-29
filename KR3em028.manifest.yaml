@@ -1,0 +1,241 @@
+canonical_identifier: bkk:krp/KR3em028/v1
+canonical_location: https://kanripo.org/bkk/KR3em028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 喉科集腋
+  identifiers:
+    krp: KR3em028
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em028.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3em028_000.yaml, hash: 'sha256:4187b9ec1b8a86d3ed81c1dfa070da5b9da66da6c4838b08a42d3954f7ae6d72'}
+  - {seq: 1, filename: KR3em028_001.yaml, hash: 'sha256:4b5c7aaac68e86b8dedcb3ff25ed3d03d472ce1d8f84513bdaefb66ccd377e27'}
+  - {seq: 3, filename: KR3em028_003.yaml, hash: 'sha256:3f9fa96015ca5e4c380db3a04a719376901964e93c0ac2b52f0e6cc5ba580e98'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em028_000.markers.yaml, hash: 'sha256:bc06db8d92a08fb9d8cb8fe6f593b56d68e9ec508d53afe0c48cc5ee9a1ca469'}
+  - {seq: 1, role: markers, filename: assets/KR3em028_001.markers.yaml, hash: 'sha256:d78a31ec07aa160389c13f64dbd1211caf5ea6b4907797279e9c7b69d2b8d7c4'}
+  - {seq: 3, role: markers, filename: assets/KR3em028_003.markers.yaml, hash: 'sha256:d77d6fb5175ff9f0c35d8a7f1b7cb5d9e50c0d8d1ce0bcdf208d395510d7179c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em028_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 224
+  label: 小序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em028_jc_000-d3.h1s1
+    span:
+    - front
+    - 224
+    - 1071
+  label: 青芝自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em028_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 628
+  label: 針法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em028_jc_000-d4d20
+    span:
+    - body
+    - 445
+    - 628
+  label: 逐日血神所在不宜針灸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em028_jc_000-d5.h1s1
+    span:
+    - body
+    - 628
+    - 632
+  label: 刺針圖式
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em028_jc_000-d6.h1s1
+    span:
+    - body
+    - 632
+    - 1050
+  label: 用藥禁忌
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em028_jc_001-d7.h1s1
+    span:
+    - body
+    - 0
+    - 16159
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em028_jc_001-d7d2
+    span:
+    - body
+    - 2
+    - 4116
+  label: 白喉風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em028_jc_001-d7.d2d10
+    span:
+    - body
+    - 2594
+    - 2682
+  label: 不治之症
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em028_jc_001-d7.d2d11
+    span:
+    - body
+    - 2682
+    - 4116
+  label: 方法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em028_jc_001-d7d3
+    span:
+    - body
+    - 4116
+    - 6820
+  label: 喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em028_jc_001-d7.d3d56
+    span:
+    - body
+    - 6513
+    - 6820
+  label: 喉痹門
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em028_jc_001-d7d4
+    span:
+    - body
+    - 6820
+    - 16159
+  label: 爛喉痧症辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em028_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 15127
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3em028_jc_003-d8d2
+    span:
+    - body
+    - 2
+    - 4870
+  label: 咽痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em028_jc_003-d8d3
+    span:
+    - body
+    - 4870
+    - 8066
+  label: 單雙喉蛾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em028_jc_003-d8d4
+    span:
+    - body
+    - 8066
+    - 10422
+  label: 咽喉雜症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em028_jc_003-d8d5
+    span:
+    - body
+    - 10422
+    - 12816
+  label: 喉風
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em028_jc_003-d8d6
+    span:
+    - body
+    - 12816
+    - 14481
+  label: 庚寅治驗白喉風數症危險者附錄
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em028_jc_003-d8d7
+    span:
+    - body
+    - 14481
+    - 15045
+  label: 藥方歌括
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em028_jc_003-d8d8
+    span:
+    - body
+    - 15045
+    - 15127
+  label: 附沈青芝先生驗方一則
+  type: section
+  level: 2
+hash: sha256:8d826b978088e8d1095765c9e6a4b37f63926377cd34f986befaede551211a1d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
