@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3em028_003-jc.yaml, hash: 'sha256:b91887e79661d17e7e0613dc5e4d616a81d8e53cccb27927bcd70729b8eda5aa'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3em028_000-jc.markers.yaml, hash: 'sha256:aaeda6c1fb7b0776ca83a00568cb4ddab4a2303a13d75ce11f1487392fa9ab8c'}
-  - {seq: 1, role: markers, filename: assets/KR3em028_001-jc.markers.yaml, hash: 'sha256:637e65457b0fb1a7ad5fd034046a0f9548a14b2ae82a01077a13195ec77fa802'}
-  - {seq: 3, role: markers, filename: assets/KR3em028_003-jc.markers.yaml, hash: 'sha256:48bf0e98c8acbeb2ea23d82dd002bb52a88b67830e6fa0f52cc2dcbded1b4073'}
+  - {seq: 1, role: markers, filename: assets/KR3em028_001-jc.markers.yaml, hash: 'sha256:53103793ec1dfe485aac5321b892159e8871d08e83b8531e317a92ef58a02af7'}
+  - {seq: 3, role: markers, filename: assets/KR3em028_003-jc.markers.yaml, hash: 'sha256:72cfaf710e8dbd265297b1f62334bf9f5db789b69b7b44dd9bd35d5f81b9ac1a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -235,4 +235,4 @@ table_of_contents:
   label: 附沈青芝先生驗方一則
   type: section
   level: 2
-hash: sha256:a8ad4cbb663e033ca65bc78f600a5b3f1ced7df27473c3e0a0e3ce4b9e4002d3
+hash: sha256:eae4d6ce7e076907d3b7e1e953823dcb862817104a3fa19ad62f57221faa24ce
