@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em028_000.yaml, hash: 'sha256:4187b9ec1b8a86d3ed81c1dfa070da5b9da66da6c4838b08a42d3954f7ae6d72'}
+  - {seq: 0, filename: KR3em028_000.yaml, hash: 'sha256:b9d897efacdd876b4195fe3a738106563f4e9fc47aff84ab4da2a630411948ba'}
   - {seq: 1, filename: KR3em028_001.yaml, hash: 'sha256:1b87257dbaa2f91ac8b38d4d41d36962a5c9b5814c2eead70b57a1967442cd8d'}
   - {seq: 3, filename: KR3em028_003.yaml, hash: 'sha256:73d730801b88f8d1c8fb1342ba4f58ee5b4efff296869696ad477d638a946419'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em028_000.markers.yaml, hash: 'sha256:326f1f5040b8ecfa2bbc10eb95234fdcc491c5c887e94fc35512470ac929609c'}
+  - {seq: 0, role: markers, filename: assets/KR3em028_000.markers.yaml, hash: 'sha256:3547b1b905e79a5f4996a25a625935e3add8ff2cbf99f0db400c15514bfb60a6'}
   - {seq: 1, role: markers, filename: assets/KR3em028_001.markers.yaml, hash: 'sha256:a545d4b21f71dab862261db93b283b25a822131713c8cb30aee30f1883ea9dc4'}
   - {seq: 3, role: markers, filename: assets/KR3em028_003.markers.yaml, hash: 'sha256:175216b09dab44ff68ac195b43fa49a0433af62b9f06ca700c9d240f62f24d6e'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3em028_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 224
   label: 小序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3em028_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 224
     - 1071
   label: 青芝自序
@@ -50,8 +50,8 @@ table_of_contents:
     marker_id: KR3em028_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 628
+    - 1071
+    - 1699
   label: 針法
   type: section
   level: 1
@@ -60,8 +60,8 @@ table_of_contents:
     marker_id: KR3em028_jc_000-d4d20
     span:
     - body
-    - 445
-    - 628
+    - 1516
+    - 1699
   label: 逐日血神所在不宜針灸
   type: section
   level: 2
@@ -70,8 +70,8 @@ table_of_contents:
     marker_id: KR3em028_jc_000-d5.h1s1
     span:
     - body
-    - 628
-    - 632
+    - 1699
+    - 1703
   label: 刺針圖式
   type: section
   level: 1
@@ -80,8 +80,8 @@ table_of_contents:
     marker_id: KR3em028_jc_000-d6.h1s1
     span:
     - body
-    - 632
-    - 1050
+    - 1703
+    - 2121
   label: 用藥禁忌
   type: section
   level: 1
@@ -235,7 +235,7 @@ table_of_contents:
   label: 附沈青芝先生驗方一則
   type: section
   level: 2
-hash: sha256:eca075a08a5703d34288a6ad6fc80bf542a783d80d6f093faec6a4c87ffefe6a
+hash: sha256:b9cf1781247e75eeb065cce04c04eb7d801cae4395b686a5301618cf833c22e6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
